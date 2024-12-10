@@ -1,0 +1,22 @@
+class EnSUNAT(object):
+    def __init__(self):
+        self.TipoRespuesta = 0
+        self.MensajeRespuesta = ""
+        self.RUC = ""
+        self.TipoContribuyente = ""
+        self.NombreComercial = ""
+        self.FechaInscripcion = ""
+        self.FechaInicioActividades = ""
+        self.EstadoContribuyente = ""
+        self.CondicionContribuyente = ""
+        self.DomicilioFiscal = ""
+        self.SistemaEmisionComprobante = ""
+        self.ActividadComercioExterior = ""
+        self.SistemaContabilidiad = ""
+        self.ActividadesEconomicas = ""
+        self.ComprobantesPago = ""
+        self.SistemaEmisionElectrónica = ""
+        self.EmisorElectrónicoDesde = ""
+        self.ComprobantesElectronicos = ""
+        self.AfiliadoPLEDesde = ""
+        self.Padrones = ""
